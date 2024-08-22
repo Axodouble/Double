@@ -1,5 +1,7 @@
 # Double, a utility and pvp plugin built for the Ceraia discord server.
 
+# The Pre-Kotlin build is currently the most stable.
+
 ## Features
 The plugin has a few simple features that are added to make the server more fun and engaging.
 - **PvP**: A simple PvP system that allows players to fight each other, without worrying about losses, and with a ELO rating system.
